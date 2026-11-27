@@ -34,8 +34,6 @@ claude plugin install auto-effort --marketplace chieta063/auto-effort
 
 In the desktop app, where `/plugin` does not run: click + next to the prompt box, then Plugins, Add marketplace with `chieta063/auto-effort`, then Add plugin.
 
-While the repository is private, the install works only for people who can read it on GitHub and whose machine already holds a git credential for github.com (an SSH key, or `gh auth login` then `gh auth setup-git`).
-
 ## Cost
 
 Each turn makes one small Haiku call (the prompt, up to 4,000 characters, and a one-word reply). It adds a short delay before the first response.
