@@ -1,1 +1,1 @@
-{ "name": "auto-effort", "version": "0.1.0", "description": "Classifies each prompt with Haiku and sets the main turn's effort level before work starts" }
+{ "name": "auto-effort", "version": "0.1.0", "description": "Classifies each prompt with Haiku and sets the main turn's effort level before work starts", "license": "MIT" }

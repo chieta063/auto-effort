@@ -39,3 +39,7 @@ While the repository is private, the install works only for people who can read 
 ## Cost
 
 Each turn makes one small Haiku call (the prompt, up to 4,000 characters, and a one-word reply). It adds a short delay before the first response.
+
+## License
+
+[MIT](LICENSE)
